@@ -1,0 +1,12 @@
+#Include all the dependencies mentioned in this project
+
+fastapi
+motor
+pydantic
+uvicorn
+python-dotenv
+numpy
+openai
+
+pytest
+httpx
